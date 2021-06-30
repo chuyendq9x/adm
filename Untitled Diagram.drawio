@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T13:52:48.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Nwo5m7WoNkroIYJCt-3W" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T13:52:58.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mWOpK8hY9UDddIJSk4_D" version="14.6.13" type="github">
   <diagram id="SNh0isrDpyEV201paJJA" name="Page-1">
     <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="ZnnGFSXTL19ipxU4-vd9-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZnnGFSXTL19ipxU4-vd9-81" target="ZnnGFSXTL19ipxU4-vd9-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZnnGFSXTL19ipxU4-vd9-81" value="Config tọa độ, Yolo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="ZnnGFSXTL19ipxU4-vd9-81" value="Config tọa độ, Model Yolo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="249" y="-280" width="102" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZnnGFSXTL19ipxU4-vd9-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZnnGFSXTL19ipxU4-vd9-82" target="ZnnGFSXTL19ipxU4-vd9-83" edge="1">
